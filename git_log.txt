@@ -1,0 +1,5 @@
+INFO: started
+ERROR: something failed
+ERROR: another failure
+INFO: retry
+ERROR: final error
